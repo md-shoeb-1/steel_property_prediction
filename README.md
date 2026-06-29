@@ -2,7 +2,7 @@
 
 This repository contains the curated dataset used in the manuscript:
 
-"An Explainable Machine Learning Framework for Interpretable Mechanical Property Prediction in Steels Using Alloy Composition and Heat Treatment."
+"An Explainable Machine Learning Framework for Interpretable Mechanical Property Prediction in Steels Using Alloy Composition and Heat Treatment"
 
 The dataset includes:
 - Steel grades
