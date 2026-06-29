@@ -8,6 +8,10 @@ The dataset includes:
 - Steel grades
 - Alloy compositions
 - Heat-treatment conditions
-- Mechanical properties (Su, Sy, BHN, A5)
+- Mechanical properties (Su (MPa), Sy ((MPa)), BHN (Microhardness Units), A5 (%))
+- Elastic Modulus (E) in MPa
+- Shear Modulus (G) in MPa
+- Poisson's Ratio (mu) in Units of Length
+- Density (Ro) in Kg/m3
 
 The data were curated from publicly available sources including the Autodesk Material Library (via Kaggle), MatWeb, and SAE specifications.
